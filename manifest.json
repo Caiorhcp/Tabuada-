@@ -1,0 +1,41 @@
+{
+    "short_name": "Tabuada APP",
+    "name": "Tabuada",
+    "description": "Uma aplicação simples para mostrar tabuadas de números.",
+    "icons": [
+        {
+            "src": "assets/icon.png",
+            "type": "image/png",
+            "sizes": "1024x1024"
+        },
+        {
+            "src": "assets/adaptive-icon.png",
+            "type": "image/png",
+            "sizes": "1024x1024"
+        }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#022091",
+    "display": "fullscreen",
+    "scope": "/",
+    "theme_color": "#410CD9",
+    "author": "Caio Vinicius Goncalves de Sousa",
+    "lang": "en",
+    "version": "1.0",
+    "screenshots": [
+        {
+            "src": "assets/screenshot1.png",
+            "sizes": "783x489",
+            "type": "image/png",
+            "purpose": "any",
+            "form_factor": "wide"
+        },
+        {
+            "src": "assets/screenshot2.png",
+            "sizes": "783x489",
+            "type": "image/png",
+            "purpose": "any"
+          
+        }
+    ]
+}
